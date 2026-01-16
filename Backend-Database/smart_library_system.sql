@@ -1,5 +1,4 @@
 Use smart_library;
-
 DROP TABLE IF EXISTS issued_books;
 DROP TABLE IF EXISTS students;
 DROP TABLE IF EXISTS books;
